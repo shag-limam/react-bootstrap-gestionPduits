@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Produit 2",
+      "price": "20",
+      "description": "Description du produit 2",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Produit 3",
+      "price": 30,
+      "description": "Description du produit 3"
+    },
+    {
+      "name": "Produit 4",
+      "price": "4000",
+      "description": "Description du produit 4",
+      "id": 4
+    },
+    {
+      "name": "Produit 4",
+      "price": "5565",
+      "description": "uutu",
+      "id": 5
+    },
+    {
+      "name": "Sid",
+      "price": "223",
+      "description": "eee",
+      "id": 6
+    }
+  ]
+}
